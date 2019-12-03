@@ -1,0 +1,21 @@
+body{
+  background: green;
+}
+hr{
+  border-color: blue;
+  border-top-style: dotted;
+  border-radius: 2px;
+  width: 30%
+}
+h1{
+  color: grey;
+}
+h2{
+  color:grey;
+}
+h3{
+  color: grey;
+}
+h4{
+  color:grey;
+}
